@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/lululxvi/deepxde/commit/99b6620386d18cefb1549dddb7b7fe468cfad607",
       "git:hexsha": "99b6620386d18cefb1549dddb7b7fe468cfad607",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T15:53:42.469058+00:00"
     },
     {
       "@id": "https://repolex.ai/r/lululxvi/deepxde/commit/cd5a9d1049be8855d6182cce106cbda2e363c535",
