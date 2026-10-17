@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/lululxvi/deepxde/commit/99b6620386d18cefb1549dddb7b7fe468cfad607",
       "git:hexsha": "99b6620386d18cefb1549dddb7b7fe468cfad607",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/lululxvi/deepxde/commit/cd5a9d1049be8855d6182cce106cbda2e363c535",
